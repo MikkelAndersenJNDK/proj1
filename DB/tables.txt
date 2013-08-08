@@ -1,1 +1,2 @@
 Version 1.0 af tables
+TenantId i alle tabeller er v 1.1
